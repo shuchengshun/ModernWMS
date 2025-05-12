@@ -12,9 +12,9 @@
     </div>
 
     <div class="copyRight">
-      <a href="https://modernwms.ikeyly.com" target="_blank">CopyRight © 2023 ModernWMS All Rights Reserve</a>
+      <a target="_blank">CopyRight © 2023 iWMS All Rights Reserve</a>
     </div>
-    <div class="ICP" @click="method.toICP"> 闽ICP备2021008548号 </div>
+    <div class="ICP"> 北京中新能 </div>
   </div>
 </template>
 
