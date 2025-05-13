@@ -72,7 +72,7 @@ const data = reactive({
   },
   userNameVaildRules: [(v: string) => !!v || `${ i18n.global.t('system.checkText.mustInput') }${ i18n.global.t('login.userName') }!`],
   passwordVaildRules: [(v: string) => !!v || `${ i18n.global.t('system.checkText.mustInput') }${ i18n.global.t('login.password') }!`],
-  encryption: 'ModernWMS2024'
+  encryption: 'bjzxn2024'
 })
 
 const method = reactive({

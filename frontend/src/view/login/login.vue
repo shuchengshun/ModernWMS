@@ -12,7 +12,7 @@
     </div>
 
     <div class="copyRight">
-      <a target="_blank">CopyRight © 2023 iWMS All Rights Reserve</a>
+      <a target="_blank">CopyRight © 2023 bjzxn_iWMS All Rights Reserve</a>
     </div>
     <div class="ICP"> 北京中新能 </div>
   </div>
